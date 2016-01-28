@@ -3,7 +3,7 @@ library(leaflet)
 library(DT)
 
 data <- read.csv(
-  "http://data.go.id/dataset/64bda63f-c2ee-4128-8b63-7047c950f6b3/resource/476513d0-f4f8-4a3a-a020-773dcf843c1f/download/processeddanabagihasilminyakbumiperkkkskabupaten20102011.csv",
+  "processeddanabagihasilminyakbumiperkkkskabupaten20102011.csv",
   header=TRUE,
   sep=",")
 data$color <- ifelse(data$penerimaan_sda > 1000000000000,"red","green")
