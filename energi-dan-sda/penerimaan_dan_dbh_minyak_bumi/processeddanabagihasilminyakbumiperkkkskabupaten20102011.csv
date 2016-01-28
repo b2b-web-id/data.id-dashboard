@@ -1,0 +1,399 @@
+tahun,nama_provinsi,kode_kabkota,nama_kabkota,kkks,jenis_minyak,penerimaan_sda,dbh_prov,dbh_penghasil,dbh_pemerataan,latitude,longitude
+2010,"Prov. Nanggroe Aceh Darussalam",1105,"Kab. Aceh Timur","MOBIL PASE","Arun Cond.",,,,,4.56983,97.7723
+2010,"Prov. Nanggroe Aceh Darussalam",1111,"Kab. Aceh Utara","EXXONMOBIL OIL-ARUN","Arun Cond.",3.964e+11,1.189e+10,2.378e+10,2.378e+10,4.99764,97.1454
+2010,"Prov. Nanggroe Aceh Darussalam",1111,"Kab. Aceh Utara","EXXONMOBIL OIL-SLS","Arun Cond.",2.611e+10,7.833e+08,1.567e+09,1.567e+09,4.99764,97.1454
+2010,"Prov. Nanggroe Aceh Darussalam",1114,"Kab. Aceh Tamiang","PT. PERTAMINA EP.","NSC",7.637e+10,2.291e+09,4.582e+09,4.582e+09,4.20756,98.0029
+2010,"Prov. Sumatera Utara",1212,"Kab. Deli Serdang","PT. PERTAMINA EP.","NSC",16440857,509666.57,1019333.1,1019333.1,3.46231,98.888
+2010,"Prov. Sumatera Utara",1213,"Kab. Langkat","DISKI","NSC",,,,,3.766,98.2307
+2010,"Prov. Sumatera Utara",1213,"Kab. Langkat","BATUMANDI  PETROLEUM","NSC",,,,,3.766,98.2307
+2010,"Prov. Sumatera Utara",1213,"Kab. Langkat","PT. PERTAMINA EP.","NSC",2.224e+10,6.896e+08,1.379e+09,1.379e+09,3.766,98.2307
+2010,"Prov. Sumatera Utara",1213,"Kab. Langkat","JOBP. COSTA INT'L GROUP LTD - COSTA INT'L","ARBEI",,,,,3.766,98.2307
+2010,"Prov. Sumatera Utara",1213,"Kab. Langkat","EKSINDO TELAGA SAID","NSC",2.510e+09,77820342,1.556e+08,1.556e+08,3.766,98.2307
+2010,"Prov. Sumatera Utara",1213,"Kab. Langkat","JOBP. COSTA INT'L GROUP LTD - PPI","ARBEI",,,,,3.766,98.2307
+2010,"Prov. Sumatera Utara",1213,"Kab. Langkat","PUTRA KENCANA BASILAM","NSC",,,,,3.766,98.2307
+2010,"Prov. Sumatera Utara",1276,"Kota Binjai","PT. PERTAMINA EP.","NSC",2.986e+09,92564628,1.851e+08,1.851e+08,3.61904,98.4846
+2010,"Prov. Riau",1402,"Kab. Indragiri Hulu","UBEP. LIRIK","Lirik",4.323e+10,1.340e+09,2.680e+09,2.680e+09,-.522681,102.243
+2010,"Prov. Riau",1402,"Kab. Indragiri Hulu","PT. PERTAMINA EP.","Lirik (Ex Stanvac)",,,,,-.522681,102.243
+2010,"Prov. Riau",1402,"Kab. Indragiri Hulu","MEDCO S&C Sum.","Lirik",2.975e+10,9.224e+08,1.845e+09,1.845e+09,-.522681,102.243
+2010,"Prov. Riau",1404,"Kab. Pelalawan","PT. PERTAMINA EP.","Lirik (Ex Stanvac)",1.708e+10,5.294e+08,1.059e+09,1.059e+09,.124485,102.427
+2010,"Prov. Riau",1404,"Kab. Pelalawan","MEDCO S&C Sum.","Lirik",1.104e+11,3.422e+09,6.843e+09,6.843e+09,.124485,102.427
+2010,"Prov. Riau",1405,"Kab. Siak","CPI","SLC",9.709e+12,3.010e+11,6.019e+11,6.019e+11,.761717,101.846
+2010,"Prov. Riau",1405,"Kab. Siak","PETROSELAT","Selat Panjang",,,,,.761717,101.846
+2010,"Prov. Riau",1405,"Kab. Siak","BOBP. BUMI SIAK PUSAKO","SLC",1.779e+12,5.514e+10,1.103e+11,1.103e+11,.761717,101.846
+2010,"Prov. Riau",1405,"Kab. Siak","KONDUR PETROLEUM","Lalang",1.467e+11,4.548e+09,9.095e+09,9.095e+09,.761717,101.846
+2010,"Prov. Riau",1406,"Kab. Kampar","C&T SIAK","SLC",9.601e+10,2.976e+09,5.953e+09,5.953e+09,.27116,101.089
+2010,"Prov. Riau",1406,"Kab. Kampar","BOBP. BUMI SIAK PUSAKO","SLC",1.374e+11,4.260e+09,8.519e+09,8.519e+09,.27116,101.089
+2010,"Prov. Riau",1406,"Kab. Kampar","SPR LANGGAK ex. C&T MFK","SLC",1.566e+10,4.855e+08,9.709e+08,9.709e+08,.27116,101.089
+2010,"Prov. Riau",1406,"Kab. Kampar","CPI","SLC",5.797e+12,1.797e+11,3.594e+11,3.594e+11,.27116,101.089
+2010,"Prov. Riau",1407,"Kab. Rokan Hulu","CPI","SLC",1.418e+11,4.396e+09,8.792e+09,8.792e+09,.821098,100.506
+2010,"Prov. Riau",1407,"Kab. Rokan Hulu","SPR LANGGAK ex. C&T MFK","SLC",2.548e+10,7.897e+08,1.579e+09,1.579e+09,.821098,100.506
+2010,"Prov. Riau",1407,"Kab. Rokan Hulu","C&T SIAK","SLC",,,,,.821098,100.506
+2010,"Prov. Riau",1408,"Kab. Bengkalis","CPI","SLC",5.947e+12,1.844e+11,3.687e+11,3.687e+11,1.24641,101.523
+2010,"Prov. Riau",1408,"Kab. Bengkalis","BOBP. BUMI SIAK PUSAKO","SLC",6.231e+11,1.932e+10,3.863e+10,3.863e+10,1.24641,101.523
+2010,"Prov. Riau",1408,"Kab. Bengkalis","CPI","Duri",2.038e+13,6.317e+11,1.263e+12,1.263e+12,1.24641,101.523
+2010,"Prov. Riau",1408,"Kab. Bengkalis","KONDUR PETROLEUM","Lalang",,,,,1.24641,101.523
+2010,"Prov. Riau",1409,"Kab. Rokan Hilir","CPI","SLC",9.844e+12,3.052e+11,6.103e+11,6.103e+11,1.86948,100.838
+2010,"Prov. Riau",1409,"Kab. Rokan Hilir","C&T SIAK","SLC",1.537e+11,4.763e+09,9.526e+09,9.526e+09,1.86948,100.838
+2010,"Prov. Riau",1409,"Kab. Rokan Hilir","BOBP. BUMI SIAK PUSAKO","SLC",,,,,1.86948,100.838
+2010,"Prov. Riau",1409,"Kab. Rokan Hilir","CPI","Duri",4.888e+10,1.515e+09,3.031e+09,3.031e+09,1.86948,100.838
+2010,"Prov. Riau",1410,"Kab. Kepulauan Meranti","KONDUR PETROLEUM","Lalang",5.968e+11,1.850e+10,3.700e+10,3.700e+10,.907379,102.726
+2010,"Prov. Jambi",1503,"Kab. Sarolangun","PETROCHINA BANGKO","Bangko",,,,,-2.33009,102.649
+2010,"Prov. Jambi",1503,"Kab. Sarolangun","BWP MERUAP","Jambi",1.080e+11,3.348e+09,6.697e+09,6.697e+09,-2.33009,102.649
+2010,"Prov. Jambi",1504,"Kab. Batang Hari","PRAKARSA BTG MS","Jambi",1.142e+09,35390750,70781499,70781499,-1.85729,103.015
+2010,"Prov. Jambi",1504,"Kab. Batang Hari","PT. PERTAMINA EP.","Jambi",,,,,-1.85729,103.015
+2010,"Prov. Jambi",1504,"Kab. Batang Hari","ELNUSA TRISTAR RAMBA","Ramba",1.520e+08,4713233.3,9426466.6,9426466.6,-1.85729,103.015
+2010,"Prov. Jambi",1504,"Kab. Batang Hari","JOAP. COPHIL S. JAMBI","Jambi",,,,,-1.85729,103.015
+2010,"Prov. Jambi",1504,"Kab. Batang Hari","UBEP. JAMBI","Tempino",8.711e+09,2.700e+08,5.401e+08,5.401e+08,-1.85729,103.015
+2010,"Prov. Jambi",1505,"Kab. Muaro Jambi","ELNUSA TRISTAR RAMBA","Ramba",1.465e+09,45412947,90825894,90825894,-1.64549,103.746
+2010,"Prov. Jambi",1505,"Kab. Muaro Jambi","UBEP. JAMBI","Tempino",7.326e+10,2.271e+09,4.542e+09,4.542e+09,-1.64549,103.746
+2010,"Prov. Jambi",1505,"Kab. Muaro Jambi","AKAR GOLINDO","Jambi",,,,,-1.64549,103.746
+2010,"Prov. Jambi",1505,"Kab. Muaro Jambi","PT. PERTAMINA EP.","Jambi",,,,,-1.64549,103.746
+2010,"Prov. Jambi",1505,"Kab. Muaro Jambi","EMP GELAM","Jambi",8.131e+09,2.521e+08,5.041e+08,5.041e+08,-1.64549,103.746
+2010,"Prov. Jambi",1506,"Kab. Tanjung Jabung Timur","PETROCHINA JABUNG","Geragai Cond.",4.439e+11,1.376e+10,2.752e+10,2.752e+10,-1.30035,103.98
+2010,"Prov. Jambi",1506,"Kab. Tanjung Jabung Timur","PETROCHINA JABUNG","Geragai/Makmur",4.834e+11,1.498e+10,2.997e+10,2.997e+10,-1.30035,103.98
+2010,"Prov. Jambi",1507,"Kab. Tanjung Jabung Barat","PETROCHINA JABUNG","Geragai Cond.",9.125e+11,2.829e+10,5.657e+10,5.657e+10,-1.12062,103.142
+2010,"Prov. Jambi",1507,"Kab. Tanjung Jabung Barat","PETROCHINA JABUNG","Geragai/Makmur",1.082e+12,3.353e+10,6.707e+10,6.707e+10,-1.12062,103.142
+2010,"Prov. Jambi",1508,"Kab. Tebo","MONTD'OR OIL TUNGKAL LTD. ex. PEARL OIL","Mengoepeh",,,,,-1.39386,102.317
+2010,"Prov. Jambi",1571,"Kota Jambi","UBEP. JAMBI","Tempino",5.006e+10,1.552e+09,3.103e+09,3.103e+09,-1.62225,103.641
+2010,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu","PT. PERTAMINA EP.","KPS",2.753e+10,8.535e+08,1.707e+09,1.707e+09,-4.01787,104.146
+2010,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu","JOBP. TALISMAN OK LTD - PPI","AIR SERDANG",6.213e+10,1.926e+09,3.852e+09,3.852e+09,-4.01787,104.146
+2010,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu","JOBP. TALISMAN OK LTD - TALISMAN ENERGY","AIR SERDANG",2.543e+11,7.883e+09,1.577e+10,1.577e+10,-4.01787,104.146
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","JOBP. GOLDEN SPIKE IND LTD - GOLDEN SPIKE IND LTD","AIR HITAM",4.043e+10,1.253e+09,2.506e+09,2.506e+09,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","EASCO RADEKA SOKARAJA","KPS",1.848e+09,57300022,1.146e+08,1.146e+08,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","GERARDO PUTRA MANDIRI","KPS",,,,,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","UBEP. LIMAU","KPS",3.032e+11,9.399e+09,1.880e+10,1.880e+10,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","RETCO PRIMA ENERGY","KPS",9.259e+09,2.870e+08,5.741e+08,5.741e+08,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","JOBP. GOLDEN SPIKE IND LTD - PPI","AIR HITAM",,,,,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","PT. PERTAMINA EP. (KSO - BBP)","KPS",,,,,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","PT. PERTAMINA EP.","TAP",1.481e+11,4.591e+09,9.182e+09,9.182e+09,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","MEDCO S&C SUM.","Pendopo",4.379e+10,1.358e+09,2.715e+09,2.715e+09,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","LEKOM MARAS ex. H E D I","KPS",,,,,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","UBEP. ADERA","KPS",3.445e+10,1.068e+09,2.136e+09,2.136e+09,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","UBEP. BENAKAT ex. SRT","KPS",5.665e+10,1.756e+09,3.512e+09,3.512e+09,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","MEDCO E & P LEMATANG","Harimau",66211101,2052544.1,4105088.3,4105088.3,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","JOBP. GOLDEN SPIKE IND LTD","AIR HITAM",,,,,-3.71069,104.044
+2010,"Prov. Sumatera Selatan",1604,"Kab. Lahat","PILONA T. LONTAR","KPS",1.971e+10,6.109e+08,1.222e+09,1.222e+09,-3.8887,103.196
+2010,"Prov. Sumatera Selatan",1604,"Kab. Lahat","MEDCO S&C SUM.","Pendopo",1.081e+11,3.350e+09,6.701e+09,6.701e+09,-3.8887,103.196
+2010,"Prov. Sumatera Selatan",1604,"Kab. Lahat","RADIANT RAMOK SENABING","KPS",1.758e+09,54487938,1.090e+08,1.090e+08,-3.8887,103.196
+2010,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas","MEDCO S&C SUM.","Pendopo",3.912e+11,1.213e+10,2.426e+10,2.426e+10,-2.95853,102.861
+2010,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas","BUANA SAPOETRA SEBASA","KPS",,,,,-2.95853,102.861
+2010,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas","SELE RAYA MD. TAMPI","Tampi",,,,,-2.95853,102.861
+2010,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas","PT. PERTAMINA EP.","KPS",4.469e+10,1.385e+09,2.771e+09,2.771e+09,-2.95853,102.861
+2010,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas","COPHIL CORRIDOR GRISSIK","Rawa",2.078e+11,6.441e+09,1.288e+10,1.288e+10,-2.95853,102.861
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","MEDCO E & P RIMAU","Rimau/Tabuan",9.269e+09,2.873e+08,5.747e+08,5.747e+08,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","PT. PERTAMINA EP.","TAP (Ex Stanvac)",1.272e+10,3.942e+08,7.885e+08,7.885e+08,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","PT. PERTAMINA EP.","Jambi",1.050e+09,32537174,65074349,65074349,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","MEDCO E & P RIMAU","Kaji",2.430e+12,7.531e+10,1.506e+11,1.506e+11,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","BABAT KUKUI ENERGY","Jambi",4.220e+09,1.308e+08,2.616e+08,2.616e+08,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","COPHIL CORRIDOR GRISSIK","Rawa",1.157e+12,3.587e+10,7.174e+10,7.174e+10,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","JOBP. TALISMAN JAMBI MERANG","Jambi Merang Cond.",,,,,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","ELNUSA TRISTAR RAMBA","Ramba",7.685e+10,2.382e+09,4.765e+09,4.765e+09,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","PT. PERTAMINA EP. (KSO - GEO)","KPS",3.600e+09,1.116e+08,2.232e+08,2.232e+08,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","JOBP. TALISMAN JAMBI MERANG","Rawa",,,,,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","MEDCO E & P RIMAU","Ramba / Tg. Laban",3.879e+09,1.202e+08,2.405e+08,2.405e+08,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","BINATEK REKA KRUH","KPS",2.155e+09,66808510,1.336e+08,1.336e+08,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","PT. PERTAMINA EP. (KSO - SPE)","KPS",5.066e+09,1.570e+08,3.141e+08,3.141e+08,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","UBEP. BENAKAT ex. SRT","KPS",9.211e+08,28554325,57108651,57108651,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","MEDCO S&C SUM.","Matra",1.996e+11,6.188e+09,1.238e+10,1.238e+10,-2.44468,104.293
+2010,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin","COPHIL CORRIDOR GRISSIK","Rawa",4.854e+10,1.505e+09,3.010e+09,3.010e+09,-2.41036,104.787
+2010,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin","MEDCO E & P RIMAU","Rimau/Tabuan",2.430e+11,7.532e+09,1.506e+10,1.506e+10,-2.41036,104.787
+2010,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin","ELNUSA TRISTAR RAMBA","Bentayan",3.135e+10,9.719e+08,1.944e+09,1.944e+09,-2.41036,104.787
+2010,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir","PT. PERTAMINA EP. (KSO - FS)","KPS",1.054e+10,3.267e+08,6.535e+08,6.535e+08,-3.42967,104.575
+2010,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir","RETCO PRIMA ENERGY","KPS",8.392e+08,26016570,52033141,52033141,-3.42967,104.575
+2010,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir","PT. PERTAMINA EP. (KSO - CESL)","KPS",,,,,-3.42967,104.575
+2010,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir","PT. PERTAMINA EP.","KPS",1.852e+10,5.742e+08,1.148e+09,1.148e+09,-3.42967,104.575
+2010,"Prov. Sumatera Selatan",1672,"Kota Prabumulih","UBEP. LIMAU","KPS",2.582e+10,8.005e+08,1.601e+09,1.601e+09,-3.49761,104.22
+2010,"Prov. Sumatera Selatan",1672,"Kota Prabumulih","PT. PERTAMINA EP.","KPS",2.285e+10,7.084e+08,1.417e+09,1.417e+09,-3.49761,104.22
+2010,"Prov. Lampung",1804,"Kab. Lampung Timur","CNOOC SES","Cinta",7.814e+11,2.422e+10,4.845e+10,4.845e+10,-5.11625,105.586
+2010,"Prov. Kepulauan Riau",2103,"Kab. Natuna","CONOCOPHILLIPS B BLOCK","Sembilang",,,,,3.93073,108.188
+2010,"Prov. Kepulauan Riau",2103,"Kab. Natuna","CONOCOPHILLIPS B BLOCK","Belanak",3.842e+12,1.191e+11,2.382e+11,2.382e+11,3.93073,108.188
+2010,"Prov. Kepulauan Riau",2103,"Kab. Natuna","PERTALAHAN ARNEBATARA","Udang",4.496e+10,1.394e+09,2.787e+09,2.787e+09,3.93073,108.188
+2010,"Prov. Kepulauan Riau",2103,"Kab. Natuna","CONOCOPHILLIPS B BLOCK","Belida",1.555e+12,4.819e+10,9.638e+10,9.638e+10,3.93073,108.188
+2010,"Prov. Kepulauan Riau",2103,"Kab. Natuna","STAR ENERGY","Kerapu",,,,,3.93073,108.188
+2010,"Prov. Kepulauan Riau",2105,"Kab. Kepulauan Anambas","PERTALAHAN ARNEBATARA","Udang",2.421e+10,7.505e+08,1.501e+09,1.501e+09,2.93874,105.76
+2010,"Prov. Kepulauan Riau",2105,"Kab. Kepulauan Anambas","CONOCOPHILLIPS B BLOCK","Sembilang",,,,,2.93874,105.76
+2010,"Prov. Kepulauan Riau",2105,"Kab. Kepulauan Anambas","STAR ENERGY","Kerapu",,,,,2.93874,105.76
+2010,"Prov. Kepulauan Riau",2105,"Kab. Kepulauan Anambas","CONOCOPHILLIPS B BLOCK","Belida",8.371e+11,2.595e+10,5.190e+10,5.190e+10,2.93874,105.76
+2010,"Prov. Kepulauan Riau",2105,"Kab. Kepulauan Anambas","CONOCOPHILLIPS B BLOCK","Belanak",2.069e+12,6.414e+10,1.283e+11,1.283e+11,2.93874,105.76
+2010,"Prov. DKI Jakarta",3100,"Prov. DKI Jakarta","PHE ONWJ","North West C",1.789e+10,5.547e+08,1.109e+09,1.109e+09,-6.183333,106.8333
+2010,"Prov. DKI Jakarta",3100,"Prov. DKI Jakarta","CNOOC SES","Cinta",6.774e+11,2.100e+10,4.200e+10,4.200e+10,-6.183333,106.8333
+2010,"Prov. DKI Jakarta",3100,"Prov. DKI Jakarta","PHE ONWJ","Arjuna",,,,,-6.183333,106.8333
+2010,"Prov. Jawa Barat",3210,"Kab. Majalengka","PT. PERTAMINA EP.","Jatibarang",1.398e+09,43337598,86675197,86675197,-6.81747,108.228
+2010,"Prov. Jawa Barat",3212,"Kab. Indramayu","PHE ONWJ","Arjuna",3.167e+09,98192379,1.964e+08,1.964e+08,-6.44806,108.198
+2010,"Prov. Jawa Barat",3212,"Kab. Indramayu","PELANGI HAURGEULIS","Jatibarang",,,,,-6.44806,108.198
+2010,"Prov. Jawa Barat",3212,"Kab. Indramayu","BANGO DUO","Jatibarang",1.677e+10,5.198e+08,1.040e+09,1.040e+09,-6.44806,108.198
+2010,"Prov. Jawa Barat",3212,"Kab. Indramayu","PT. PERTAMINA EP.","Jatibarang",1.124e+11,3.484e+09,6.969e+09,6.969e+09,-6.44806,108.198
+2010,"Prov. Jawa Barat",3212,"Kab. Indramayu","RADIAN R SUKATANI","Jatibarang",,,,,-6.44806,108.198
+2010,"Prov. Jawa Barat",3213,"Kab. Subang","RAINBOW ENERGY","Jatibarang",3.742e+08,11599885,23199771,23199771,-6.4939,107.726
+2010,"Prov. Jawa Barat",3213,"Kab. Subang","PT. PERTAMINA EP.","Jatibarang",1.234e+10,3.824e+08,7.649e+08,7.649e+08,-6.4939,107.726
+2010,"Prov. Jawa Barat",3215,"Kab. Karawang","RDL / MB-T2","Arjuna",2.226e+10,6.901e+08,1.380e+09,1.380e+09,-6.28699,107.364
+2010,"Prov. Jawa Barat",3215,"Kab. Karawang","PT. PERTAMINA EP.","Jatibarang",3.061e+10,9.490e+08,1.898e+09,1.898e+09,-6.28699,107.364
+2010,"Prov. Jawa Barat",3215,"Kab. Karawang","PHE ONWJ","Arjuna",2.761e+10,8.559e+08,1.712e+09,1.712e+09,-6.28699,107.364
+2010,"Prov. Jawa Barat",3216,"Kab. Bekasi","ELLIPSE EN. JATIRARANGON","Jatibarang",,,,,-6.20242,107.135
+2010,"Prov. Jawa Barat",3216,"Kab. Bekasi","PT. PERTAMINA EP.","Jatibarang",3.478e+11,1.078e+10,2.156e+10,2.156e+10,-6.20242,107.135
+2010,"Prov. Jawa Tengah",3315,"Kab. Grobogan","PT. PERTAMINA EP.","Cepu",,,,,-7.10693,110.894
+2010,"Prov. Jawa Tengah",3316,"Kab. Blora","PT. PERTAMINA EP.","Cepu",2.205e+10,6.836e+08,1.367e+09,1.367e+09,-7.11381,111.361
+2010,"Prov. Jawa Timur",3515,"Kab. Sidoarjo","LAPINDO BRANTAS","Tanggulangin",5.406e+08,16759858,33519717,33519717,-7.45533,112.663
+2010,"Prov. Jawa Timur",3515,"Kab. Sidoarjo","PPI","Tanggulangin",,,,,-7.45533,112.663
+2010,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","PT. PERTAMINA EP.","Cepu",2.916e+10,9.039e+08,1.808e+09,1.808e+09,-7.22605,111.791
+2010,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","JOBP. PETROCHINA  EAST JAVA - PPI","SUKOWATI",2.715e+11,8.417e+09,1.683e+10,1.683e+10,-7.22605,111.791
+2010,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","JOBP. PETROCHINA  EAST JAVA - PETROCHINA INT'L","SUKOWATI",5.644e+11,1.750e+10,3.499e+10,3.499e+10,-7.22605,111.791
+2010,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","EXXONMOBIL CEPU","Banyu Urip",4.829e+11,1.497e+10,2.994e+10,2.994e+10,-7.22605,111.791
+2010,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","UNITISASI PETROCHINA","Sukowati",9.837e+11,3.049e+10,6.099e+10,6.099e+10,-7.22605,111.791
+2010,"Prov. Jawa Timur",3523,"Kab. Tuban","PT. PERTAMINA EP.","Cepu",2.727e+08,8454079.8,16908160,16908160,-6.95912,111.893
+2010,"Prov. Jawa Timur",3523,"Kab. Tuban","JOBP. PETROCHINA  EAST JAVA - PPI","MUDI",5.089e+10,1.578e+09,3.155e+09,3.155e+09,-6.95912,111.893
+2010,"Prov. Jawa Timur",3523,"Kab. Tuban","JOBP. PETROCHINA  EAST JAVA - PETROCHINA INT'L","MUDI",1.422e+11,4.409e+09,8.817e+09,8.817e+09,-6.95912,111.893
+2010,"Prov. Jawa Timur",3525,"Kab. Gresik","HESS INDONESIA","Pangkah",8.242e+10,2.555e+09,5.110e+09,5.110e+09,-7.12652,112.517
+2010,"Prov. Jawa Timur",3526,"Kab. Bangkalan","PPI","Madura",8.034e+10,2.490e+09,4.981e+09,4.981e+09,-7.04863,112.909
+2010,"Prov. Jawa Timur",3526,"Kab. Bangkalan","JOAP. KODECO ENERGY","Madura",1.565e+11,4.853e+09,9.706e+09,9.706e+09,-7.04863,112.909
+2010,"Prov. Jawa Timur",3529,"Kab. Sumenep","KANGEAN ENERGY IND.","Pagerungan Cond.",,,,,-7.00034,113.852
+2010,"Prov. Jawa Timur",3529,"Kab. Sumenep","KANGEAN ENERGY IND.","Sepanjang",,,,,-7.00034,113.852
+2010,"Prov. Kalimantan Selatan",6309,"Kab. Tabalong","UBEP. TANJUNG","Tanjung",1.320e+11,4.093e+09,8.186e+09,8.186e+09,-1.82989,115.448
+2010,"Prov. Kalimantan Selatan",6311,"Kab. Balangan","UBEP. TANJUNG","Tanjung",1.402e+10,4.347e+08,8.693e+08,8.693e+08,-2.29685,115.567
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","CHEVRON IND. CO. - EAST KAL","Sapi Kond",2.301e+10,7.134e+08,1.427e+09,1.427e+09,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","INPEX","Badak",2.382e+10,7.385e+08,1.477e+09,1.477e+09,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","UBEP. SANGA-SANGA","Pam.Sng2.Mix",1.445e+11,4.481e+09,8.962e+09,8.962e+09,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","VICO","BRC",4.509e+11,1.398e+10,2.796e+10,2.796e+10,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","CHEVRON IND. CO. - EAST KAL","Attaka",,,,,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","INPEX","Senipah Kond",1.316e+12,4.080e+10,8.159e+10,8.159e+10,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","INPEX","Handil Mix",1.212e+12,3.757e+10,7.514e+10,7.514e+10,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","VICO","Badak",2.026e+12,6.279e+10,1.256e+11,1.256e+11,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","TOTAL INDONESIE","BRC",9.289e+11,2.880e+10,5.759e+10,5.759e+10,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","CHEVRON IND. CO. - EAST KAL","Senipah Kond",,,,,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","SEMBRANI P.OIL","Sangatta",2.859e+10,8.862e+08,1.772e+09,1.772e+09,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","INPEX","Bekapai",7.621e+09,2.362e+08,4.725e+08,4.725e+08,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","INPEX","BRC",9.109e+11,2.824e+10,5.648e+10,5.648e+10,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","TOTAL INDONESIE","Bekapai",1.047e+10,3.245e+08,6.490e+08,6.490e+08,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","TOTAL INDONESIE","Senipah Kond",1.316e+12,4.079e+10,8.159e+10,8.159e+10,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","TOTAL INDONESIE","Badak",2.423e+10,7.511e+08,1.502e+09,1.502e+09,.245719,117.041
+2010,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","TOTAL INDONESIE","Handil Mix",1.318e+12,4.085e+10,8.170e+10,8.170e+10,.245719,117.041
+2010,"Prov. Kalimantan Timur",6404,"Kab. Kutai Timur","PT. PERTAMINA EP.","Sangatta",6.225e+10,1.930e+09,3.859e+09,3.859e+09,1.02225,117.53
+2010,"Prov. Kalimantan Timur",6407,"Kab. Bulungan","PT. PERTAMINA EP.","Bunyu",1.267e+11,3.929e+09,7.858e+09,7.858e+09,2.92062,117.022
+2010,"Prov. Kalimantan Timur",6408,"Kab. Nunukan","MEDCO SEMBAKUNG","Bunyu",5.983e+10,1.855e+09,3.710e+09,3.710e+09,3.87444,116.679
+2010,"Prov. Kalimantan Timur",6409,"Kab. Penajam Paser Utara","CHEVRON IND. CO. - EAST KAL","Sepinggan",4.410e+11,1.367e+10,2.734e+10,2.734e+10,-1.21871,116.612
+2010,"Prov. Kalimantan Timur",6409,"Kab. Penajam Paser Utara","PERUSDA BENUO TAKA","Sepinggan",,,,,-1.21871,116.612
+2010,"Prov. Kalimantan Timur",6410,"Kab. Tana Tidung","PERTAMINA EP (KSO - PATINA GROUP)","",,,,,3.4432,117.168
+2010,"Prov. Kalimantan Timur",6472,"Kota Samarinda","UBEP. SANGA-SANGA","Pam.Sng2.Mix",3.787e+09,1.174e+08,2.348e+08,2.348e+08,-.430184,117.174
+2010,"Prov. Kalimantan Timur",6472,"Kota Samarinda","SEMBERANI PERSADA OIL","Sangatta",8.108e+08,25135792,50271584,50271584,-.430184,117.174
+2010,"Prov. Kalimantan Timur",6472,"Kota Samarinda","VICO","Badak",7.847e+08,24326399,48652799,48652799,-.430184,117.174
+2010,"Prov. Kalimantan Timur",6472,"Kota Samarinda","VICO","BRC",7.029e+09,2.179e+08,4.358e+08,4.358e+08,-.430184,117.174
+2010,"Prov. Kalimantan Timur",6473,"Kota Tarakan","UBEP. SANGA-SANGA","Pam.Sng2.Mix",2.083e+10,6.456e+08,1.291e+09,1.291e+09,3.33426,117.593
+2010,"Prov. Kalimantan Timur",6473,"Kota Tarakan","MEDCO TARAKAN","Mamburungan",3.072e+11,9.522e+09,1.904e+10,1.904e+10,3.33426,117.593
+2010,"Prov. Kalimantan Timur",6474,"Kota Bontang","CHEVRON IND. CO. - EAST KAL","Attaka",7.460e+10,2.313e+09,4.625e+09,4.625e+09,.209815,117.348
+2010,"Prov. Sulawesi Tengah",7203,"Kab. Morowali","JOBP. MEDCO TOMORI","Tiaka",4.299e+10,1.333e+09,2.666e+09,2.666e+09,-2.27987,121.645
+2010,"Prov. Sulawesi Tengah",7203,"Kab. Morowali","PPI","Tiaka",,,,,-2.27987,121.645
+2010,"Prov. Maluku",8107,"Kab. Seram Bagian Timur","CITIC SERAM ENERGY","Naphta",,,,,-3.42318,130.347
+2010,"Prov. Maluku",8107,"Kab. Seram Bagian Timur","KALREZ PETROLEUM","Lemun (Bula)",2.352e+09,72921218,1.458e+08,1.458e+08,-3.42318,130.347
+2010,"Prov. Maluku",8107,"Kab. Seram Bagian Timur","CITIC SERAM ENERGY","Oseil (HSFO)",,,,,-3.42318,130.347
+2010,"Prov. Papua Barat",9104,"Kab. Teluk Bintuni","BP TANGGUH","Cond.",5.190e+10,1.557e+09,3.114e+09,3.114e+09,-2.0977,133.322
+2010,"Prov. Papua Barat",9104,"Kab. Teluk Bintuni","PATRINDO PERSADA MADJU","Walio Mix",5.325e+09,1.597e+08,3.195e+08,3.195e+08,-2.0977,133.322
+2010,"Prov. Papua Barat",9107,"Kab. Sorong","INTERMEGA SALAWATI","Walio Mix",4.663e+09,1.399e+08,2.798e+08,2.798e+08,-.946039,131.859
+2010,"Prov. Papua Barat",9107,"Kab. Sorong","PT. PERTAMINA EP.","Klamono",1.812e+10,5.436e+08,1.087e+09,1.087e+09,-.946039,131.859
+2010,"Prov. Papua Barat",9107,"Kab. Sorong","PETROCHINA INT'L","Wakamuk",7.537e+10,2.261e+09,4.522e+09,4.522e+09,-.946039,131.859
+2010,"Prov. Papua Barat",9107,"Kab. Sorong","PT. PERTAMINA EP.","Walio Mix",9.974e+08,29922846,59845692,59845692,-.946039,131.859
+2010,"Prov. Papua Barat",9107,"Kab. Sorong","JOBP. PETROCHINA SALAWATI - PETROCHINA INT'L","WALIO MIX",7.625e+08,22874416,45748833,45748833,-.946039,131.859
+2010,"Prov. Papua Barat",9107,"Kab. Sorong","JOBP. PETROCHINA SALAWATI - PPI","WALIO MIX",,,,,-.946039,131.859
+2010,"Prov. Papua Barat",9107,"Kab. Sorong","IBN. HOLDICO","Walio Mix",2.008e+09,60244875,1.205e+08,1.205e+08,-.946039,131.859
+2010,"Prov. Papua Barat",9107,"Kab. Sorong","PETROCHINA INT'L","Walio Mix",6.008e+11,1.802e+10,3.605e+10,3.605e+10,-.946039,131.859
+2010,"Prov. Papua Barat",9107,"Kab. Sorong","INTERMEGA SABAKU","Walio Mix",4.708e+09,1.413e+08,2.825e+08,2.825e+08,-.946039,131.859
+2010,"Prov. Papua Barat",9108,"Kab. Raja Ampat","JOBP. PETROCHINA SALAWATI","Meslu",9.391e+10,2.817e+09,5.635e+09,5.635e+09,-.229671,131.037
+2010,"Prov. Papua Barat",9108,"Kab. Raja Ampat","PPI","Meslu",,,,,-.229671,131.037
+2011,"Prov. Nanggroe Aceh Darussalam",1105,"Kab. Aceh Timur","MOBIL PASE","Arun Cond.",1.311e+09,39320202,78640404,78640404,4.56983,97.7723
+2011,"Prov. Nanggroe Aceh Darussalam",1111,"Kab. Aceh Utara","EXXONMOBIL OIL-SLS","Arun Cond.",3.491e+10,1.047e+09,2.095e+09,2.095e+09,4.99764,97.1454
+2011,"Prov. Nanggroe Aceh Darussalam",1111,"Kab. Aceh Utara","EXXONMOBIL OIL-ARUN","Arun Cond.",6.740e+11,2.022e+10,4.044e+10,4.044e+10,4.99764,97.1454
+2011,"Prov. Nanggroe Aceh Darussalam",1114,"Kab. Aceh Tamiang","PT. PERTAMINA EP.","NSC",1.510e+11,4.531e+09,9.062e+09,9.062e+09,4.20756,98.0029
+2011,"Prov. Sumatera Utara",1212,"Kab. Deli Serdang","PT. PERTAMINA EP.","NSC",63121387,1956763,3913526,3913526,3.46231,98.888
+2011,"Prov. Sumatera Utara",1213,"Kab. Langkat","DISKI","NSC",,,,,3.766,98.2307
+2011,"Prov. Sumatera Utara",1213,"Kab. Langkat","EKSINDO TELAGA SAID","NSC",1.913e+09,59290840,1.186e+08,1.186e+08,3.766,98.2307
+2011,"Prov. Sumatera Utara",1213,"Kab. Langkat","BATUMANDI  PETROLEUM","NSC",,,,,3.766,98.2307
+2011,"Prov. Sumatera Utara",1213,"Kab. Langkat","JOBP. COSTA INT'L GROUP LTD - PPI","ARBEI",,,,,3.766,98.2307
+2011,"Prov. Sumatera Utara",1213,"Kab. Langkat","PUTRA KENCANA BASILAM","NSC",1.849e+09,57318357,1.146e+08,1.146e+08,3.766,98.2307
+2011,"Prov. Sumatera Utara",1213,"Kab. Langkat","JOBP. COSTA INT'L GROUP LTD - COSTA INT'L","ARBEI",,,,,3.766,98.2307
+2011,"Prov. Sumatera Utara",1213,"Kab. Langkat","PT. PERTAMINA EP.","NSC",3.439e+10,1.066e+09,2.132e+09,2.132e+09,3.766,98.2307
+2011,"Prov. Sumatera Utara",1276,"Kota Binjai","PT. PERTAMINA EP.","NSC",4.901e+09,1.519e+08,3.039e+08,3.039e+08,3.61904,98.4846
+2011,"Prov. Riau",1402,"Kab. Indragiri Hulu","UBEP. LIRIK","Lirik",8.521e+10,2.642e+09,5.283e+09,5.283e+09,-.522681,102.243
+2011,"Prov. Riau",1402,"Kab. Indragiri Hulu","MEDCO S&C Sum.","Lirik",5.902e+10,1.830e+09,3.659e+09,3.659e+09,-.522681,102.243
+2011,"Prov. Riau",1402,"Kab. Indragiri Hulu","PT. PERTAMINA EP.","Lirik (Ex Stanvac)",,,,,-.522681,102.243
+2011,"Prov. Riau",1404,"Kab. Pelalawan","PT. PERTAMINA EP.","Lirik (Ex Stanvac)",3.122e+10,9.678e+08,1.936e+09,1.936e+09,.124485,102.427
+2011,"Prov. Riau",1404,"Kab. Pelalawan","MEDCO S&C Sum.","Lirik",1.641e+11,5.088e+09,1.018e+10,1.018e+10,.124485,102.427
+2011,"Prov. Riau",1405,"Kab. Siak","CPI","SLC",1.204e+13,3.731e+11,7.463e+11,7.463e+11,.761717,101.846
+2011,"Prov. Riau",1405,"Kab. Siak","KONDUR PETROLEUM","Lalang",1.676e+11,5.196e+09,1.039e+10,1.039e+10,.761717,101.846
+2011,"Prov. Riau",1405,"Kab. Siak","PETROSELAT","Selat Panjang",,,,,.761717,101.846
+2011,"Prov. Riau",1405,"Kab. Siak","BOBP. BUMI SIAK PUSAKO","SLC",2.145e+12,6.650e+10,1.330e+11,1.330e+11,.761717,101.846
+2011,"Prov. Riau",1406,"Kab. Kampar","SPR LANGGAK ex. C&T MFK","SLC",2.338e+10,7.249e+08,1.450e+09,1.450e+09,.27116,101.089
+2011,"Prov. Riau",1406,"Kab. Kampar","C&T SIAK","SLC",1.602e+11,4.966e+09,9.932e+09,9.932e+09,.27116,101.089
+2011,"Prov. Riau",1406,"Kab. Kampar","BOBP. BUMI SIAK PUSAKO","SLC",1.755e+11,5.440e+09,1.088e+10,1.088e+10,.27116,101.089
+2011,"Prov. Riau",1406,"Kab. Kampar","CPI","SLC",7.841e+12,2.431e+11,4.862e+11,4.862e+11,.27116,101.089
+2011,"Prov. Riau",1407,"Kab. Rokan Hulu","SPR LANGGAK ex. C&T MFK","SLC",3.687e+10,1.143e+09,2.286e+09,2.286e+09,.821098,100.506
+2011,"Prov. Riau",1407,"Kab. Rokan Hulu","CPI","SLC",3.089e+11,9.575e+09,1.915e+10,1.915e+10,.821098,100.506
+2011,"Prov. Riau",1407,"Kab. Rokan Hulu","C&T SIAK","SLC",3.856e+09,1.196e+08,2.391e+08,2.391e+08,.821098,100.506
+2011,"Prov. Riau",1408,"Kab. Bengkalis","KONDUR PETROLEUM","Lalang",,,,,1.24641,101.523
+2011,"Prov. Riau",1408,"Kab. Bengkalis","BOBP. BUMI SIAK PUSAKO","SLC",6.794e+11,2.106e+10,4.212e+10,4.212e+10,1.24641,101.523
+2011,"Prov. Riau",1408,"Kab. Bengkalis","CPI","SLC",6.913e+12,2.143e+11,4.286e+11,4.286e+11,1.24641,101.523
+2011,"Prov. Riau",1408,"Kab. Bengkalis","CPI","Duri",3.185e+13,9.875e+11,1.975e+12,1.975e+12,1.24641,101.523
+2011,"Prov. Riau",1409,"Kab. Rokan Hilir","C&T SIAK","SLC",2.406e+11,7.458e+09,1.492e+10,1.492e+10,1.86948,100.838
+2011,"Prov. Riau",1409,"Kab. Rokan Hilir","CPI","SLC",1.194e+13,3.700e+11,7.400e+11,7.400e+11,1.86948,100.838
+2011,"Prov. Riau",1409,"Kab. Rokan Hilir","CPI","Duri",4.758e+10,1.475e+09,2.950e+09,2.950e+09,1.86948,100.838
+2011,"Prov. Riau",1409,"Kab. Rokan Hilir","BOBP. BUMI SIAK PUSAKO","SLC",,,,,1.86948,100.838
+2011,"Prov. Riau",1410,"Kab. Kepulauan Meranti","KONDUR PETROLEUM","Lalang",7.095e+11,2.200e+10,4.399e+10,4.399e+10,.907379,102.726
+2011,"Prov. Jambi",1503,"Kab. Sarolangun","PETROCHINA BANGKO","Bangko",,,,,-2.33009,102.649
+2011,"Prov. Jambi",1503,"Kab. Sarolangun","BWP MERUAP","Jambi",2.088e+11,6.472e+09,1.294e+10,1.294e+10,-2.33009,102.649
+2011,"Prov. Jambi",1504,"Kab. Batang Hari","JOAP. COPHIL S. JAMBI","Jambi",,,,,-1.85729,103.015
+2011,"Prov. Jambi",1504,"Kab. Batang Hari","PRAKARSA BTG MS","Jambi",1.182e+08,3665271.2,7330542.4,7330542.4,-1.85729,103.015
+2011,"Prov. Jambi",1504,"Kab. Batang Hari","UBEP. JAMBI","Tempino",1.292e+10,4.005e+08,8.010e+08,8.010e+08,-1.85729,103.015
+2011,"Prov. Jambi",1504,"Kab. Batang Hari","PT. PERTAMINA EP.","Jambi",,,,,-1.85729,103.015
+2011,"Prov. Jambi",1504,"Kab. Batang Hari","ELNUSA TRISTAR RAMBA","Ramba",,,,,-1.85729,103.015
+2011,"Prov. Jambi",1505,"Kab. Muaro Jambi","ELNUSA TRISTAR RAMBA","Ramba",,,,,-1.64549,103.746
+2011,"Prov. Jambi",1505,"Kab. Muaro Jambi","AKAR GOLINDO","Jambi",5.231e+08,16215390,32430781,32430781,-1.64549,103.746
+2011,"Prov. Jambi",1505,"Kab. Muaro Jambi","EMP GELAM","Jambi",2.752e+10,8.531e+08,1.706e+09,1.706e+09,-1.64549,103.746
+2011,"Prov. Jambi",1505,"Kab. Muaro Jambi","PT. PERTAMINA EP.","Jambi",,,,,-1.64549,103.746
+2011,"Prov. Jambi",1505,"Kab. Muaro Jambi","UBEP. JAMBI","Tempino",1.350e+11,4.186e+09,8.373e+09,8.373e+09,-1.64549,103.746
+2011,"Prov. Jambi",1506,"Kab. Tanjung Jabung Timur","PETROCHINA JABUNG","Geragai/Makmur",4.794e+11,1.486e+10,2.972e+10,2.972e+10,-1.30035,103.98
+2011,"Prov. Jambi",1506,"Kab. Tanjung Jabung Timur","PETROCHINA JABUNG","Geragai Cond.",4.314e+11,1.337e+10,2.675e+10,2.675e+10,-1.30035,103.98
+2011,"Prov. Jambi",1507,"Kab. Tanjung Jabung Barat","PETROCHINA JABUNG","Geragai Cond.",1.303e+12,4.041e+10,8.081e+10,8.081e+10,-1.12062,103.142
+2011,"Prov. Jambi",1507,"Kab. Tanjung Jabung Barat","PETROCHINA JABUNG","Geragai/Makmur",1.435e+12,4.448e+10,8.896e+10,8.896e+10,-1.12062,103.142
+2011,"Prov. Jambi",1508,"Kab. Tebo","MONTD'OR OIL TUNGKAL LTD. ex. PEARL OIL","Mengoepeh",,,,,-1.39386,102.317
+2011,"Prov. Jambi",1571,"Kota Jambi","UBEP. JAMBI","Tempino",8.660e+10,2.685e+09,5.369e+09,5.369e+09,-1.62225,103.641
+2011,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu","JOBP. TALISMAN OK LTD - TALISMAN ENERGY","AIR SERDANG",3.541e+11,1.098e+10,2.196e+10,2.196e+10,-4.01787,104.146
+2011,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu","PT. PERTAMINA EP.","KPS",5.499e+10,1.705e+09,3.409e+09,3.409e+09,-4.01787,104.146
+2011,"Prov. Sumatera Selatan",1601,"Kab. Ogan Komering Ulu","JOBP. TALISMAN OK LTD - PPI","AIR SERDANG",1.667e+11,5.169e+09,1.034e+10,1.034e+10,-4.01787,104.146
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","LEKOM MARAS ex. H E D I","KPS",,,,,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","GERARDO PUTRA MANDIRI","KPS",4.543e+08,14082606,28165212,28165212,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","PT. PERTAMINA EP. (KSO - BBP)","KPS",,,,,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","PT. PERTAMINA EP.","TAP",2.873e+11,8.908e+09,1.782e+10,1.782e+10,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","EASCO RADEKA SOKARAJA","KPS",4.126e+09,1.279e+08,2.558e+08,2.558e+08,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","RETCO PRIMA ENERGY","KPS",1.509e+10,4.677e+08,9.354e+08,9.354e+08,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","MEDCO S&C SUM.","Pendopo",5.873e+10,1.820e+09,3.641e+09,3.641e+09,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","MEDCO E & P LEMATANG","Harimau",9658909.8,299426.2,598852.4,598852.4,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","UBEP. BENAKAT ex. SRT","KPS",1.189e+11,3.687e+09,7.373e+09,7.373e+09,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","UBEP. LIMAU","KPS",5.093e+11,1.579e+10,3.157e+10,3.157e+10,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","UBEP. ADERA","KPS",9.833e+10,3.048e+09,6.096e+09,6.096e+09,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","JOBP. GOLDEN SPIKE IND LTD - PPI","AIR HITAM",5.821e+10,1.805e+09,3.609e+09,3.609e+09,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1603,"Kab. Muara Enim","JOBP. GOLDEN SPIKE IND LTD - GOLDEN SPIKE IND LTD","AIR HITAM",3.658e+10,1.134e+09,2.268e+09,2.268e+09,-3.71069,104.044
+2011,"Prov. Sumatera Selatan",1604,"Kab. Lahat","PILONA T. LONTAR","KPS",3.016e+10,9.349e+08,1.870e+09,1.870e+09,-3.8887,103.196
+2011,"Prov. Sumatera Selatan",1604,"Kab. Lahat","RADIANT RAMOK SENABING","KPS",3.369e+09,1.044e+08,2.089e+08,2.089e+08,-3.8887,103.196
+2011,"Prov. Sumatera Selatan",1604,"Kab. Lahat","MEDCO S&C SUM.","Pendopo",1.263e+11,3.915e+09,7.830e+09,7.830e+09,-3.8887,103.196
+2011,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas","MEDCO S&C SUM.","Pendopo",5.083e+11,1.576e+10,3.151e+10,3.151e+10,-2.95853,102.861
+2011,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas","PT. PERTAMINA EP.","KPS",8.382e+10,2.599e+09,5.197e+09,5.197e+09,-2.95853,102.861
+2011,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas","COPHIL CORRIDOR GRISSIK","Rawa",1.877e+11,5.819e+09,1.164e+10,1.164e+10,-2.95853,102.861
+2011,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas","BUANA SAPOETRA SEBASA","KPS",,,,,-2.95853,102.861
+2011,"Prov. Sumatera Selatan",1605,"Kab. Musi Rawas","SELE RAYA MD. TAMPI","Tampi",1.141e+10,3.536e+08,7.071e+08,7.071e+08,-2.95853,102.861
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","UBEP. BENAKAT ex. SRT","KPS",2.333e+09,72323042,1.446e+08,1.446e+08,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","PT. PERTAMINA EP.","TAP (Ex Stanvac)",1.260e+10,3.906e+08,7.812e+08,7.812e+08,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","MEDCO E & P RIMAU","Kaji",2.664e+12,8.259e+10,1.652e+11,1.652e+11,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","MEDCO E & P RIMAU","Ramba / Tg. Laban",5.654e+09,1.753e+08,3.505e+08,3.505e+08,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","JOBP. TALISMAN JAMBI MERANG","Jambi Merang Cond.",3.490e+11,1.082e+10,2.164e+10,2.164e+10,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","COPHIL CORRIDOR GRISSIK","Rawa",1.409e+12,4.368e+10,8.736e+10,8.736e+10,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","BABAT KUKUI ENERGY","Jambi",1.099e+10,3.407e+08,6.814e+08,6.814e+08,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","PT. PERTAMINA EP.","Jambi",,,,,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","BINATEK REKA KRUH","KPS",3.077e+09,95398356,1.908e+08,1.908e+08,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","PT. PERTAMINA EP. (KSO - SPE)","KPS",2.233e+10,6.923e+08,1.385e+09,1.385e+09,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","PT. PERTAMINA EP. (KSO - GEO)","KPS",1.314e+10,4.072e+08,8.144e+08,8.144e+08,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","MEDCO E & P RIMAU","Rimau/Tabuan",8.084e+09,2.506e+08,5.012e+08,5.012e+08,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","MEDCO S&C SUM.","Matra",3.890e+11,1.206e+10,2.412e+10,2.412e+10,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","JOBP. TALISMAN JAMBI MERANG","Rawa",4.326e+09,1.341e+08,2.682e+08,2.682e+08,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1606,"Kab. Musi Banyuasin","ELNUSA TRISTAR RAMBA","Ramba",1.416e+11,4.389e+09,8.777e+09,8.777e+09,-2.44468,104.293
+2011,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin","COPHIL CORRIDOR GRISSIK","Rawa",5.726e+10,1.775e+09,3.550e+09,3.550e+09,-2.41036,104.787
+2011,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin","ELNUSA TRISTAR RAMBA","Bentayan",6.045e+10,1.874e+09,3.748e+09,3.748e+09,-2.41036,104.787
+2011,"Prov. Sumatera Selatan",1607,"Kab. Banyu Asin","MEDCO E & P RIMAU","Rimau/Tabuan",3.696e+11,1.146e+10,2.292e+10,2.292e+10,-2.41036,104.787
+2011,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir","RETCO PRIMA ENERGY","KPS",1.367e+09,42387667,84775334,84775334,-3.42967,104.575
+2011,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir","PT. PERTAMINA EP. (KSO - FS)","KPS",3.190e+10,9.888e+08,1.978e+09,1.978e+09,-3.42967,104.575
+2011,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir","PT. PERTAMINA EP. (KSO - CESL)","KPS",4.879e+09,1.513e+08,3.025e+08,3.025e+08,-3.42967,104.575
+2011,"Prov. Sumatera Selatan",1610,"Kab. Ogan Ilir","PT. PERTAMINA EP.","KPS",5.201e+10,1.612e+09,3.224e+09,3.224e+09,-3.42967,104.575
+2011,"Prov. Sumatera Selatan",1672,"Kota Prabumulih","UBEP. LIMAU","KPS",5.740e+10,1.779e+09,3.559e+09,3.559e+09,-3.49761,104.22
+2011,"Prov. Sumatera Selatan",1672,"Kota Prabumulih","PT. PERTAMINA EP.","KPS",3.989e+10,1.237e+09,2.473e+09,2.473e+09,-3.49761,104.22
+2011,"Prov. Lampung",1804,"Kab. Lampung Timur","CNOOC SES","Cinta",1.026e+12,3.181e+10,6.363e+10,6.363e+10,-5.11625,105.586
+2011,"Prov. Kepulauan Riau",2103,"Kab. Natuna","CONOCOPHILLIPS B BLOCK","Belida",1.590e+12,4.929e+10,9.857e+10,9.857e+10,3.93073,108.188
+2011,"Prov. Kepulauan Riau",2103,"Kab. Natuna","PERTALAHAN ARNEBATARA","Udang",2.872e+10,8.902e+08,1.780e+09,1.780e+09,3.93073,108.188
+2011,"Prov. Kepulauan Riau",2103,"Kab. Natuna","CONOCOPHILLIPS B BLOCK","Belanak",4.541e+12,1.408e+11,2.816e+11,2.816e+11,3.93073,108.188
+2011,"Prov. Kepulauan Riau",2103,"Kab. Natuna","STAR ENERGY","Kerapu",3.094e+11,9.590e+09,1.918e+10,1.918e+10,3.93073,108.188
+2011,"Prov. Kepulauan Riau",2103,"Kab. Natuna","CONOCOPHILLIPS B BLOCK","Sembilang",,,,,3.93073,108.188
+2011,"Prov. Kepulauan Riau",2105,"Kab. Kepulauan Anambas","PERTALAHAN ARNEBATARA","Udang",1.546e+10,4.794e+08,9.587e+08,9.587e+08,2.93874,105.76
+2011,"Prov. Kepulauan Riau",2105,"Kab. Kepulauan Anambas","CONOCOPHILLIPS B BLOCK","Belida",8.561e+11,2.654e+10,5.308e+10,5.308e+10,2.93874,105.76
+2011,"Prov. Kepulauan Riau",2105,"Kab. Kepulauan Anambas","CONOCOPHILLIPS B BLOCK","Sembilang",,,,,2.93874,105.76
+2011,"Prov. Kepulauan Riau",2105,"Kab. Kepulauan Anambas","STAR ENERGY","Kerapu",1.666e+11,5.164e+09,1.033e+10,1.033e+10,2.93874,105.76
+2011,"Prov. Kepulauan Riau",2105,"Kab. Kepulauan Anambas","CONOCOPHILLIPS B BLOCK","Belanak",2.445e+12,7.580e+10,1.516e+11,1.516e+11,2.93874,105.76
+2011,"Prov. DKI Jakarta",3100,"Prov. DKI Jakarta","CNOOC SES","Cinta",9.460e+11,2.933e+10,5.865e+10,5.865e+10,-6.183333,106.8333
+2011,"Prov. DKI Jakarta",3100,"Prov. DKI Jakarta","PHE ONWJ","Arjuna",,,,,-6.183333,106.8333
+2011,"Prov. DKI Jakarta",3100,"Prov. DKI Jakarta","PHE ONWJ","North West C",2.401e+11,7.442e+09,1.488e+10,1.488e+10,-6.183333,106.8333
+2011,"Prov. Jawa Barat",3210,"Kab. Majalengka","PT. PERTAMINA EP.","Jatibarang",8.225e+09,2.550e+08,5.100e+08,5.100e+08,-6.81747,108.228
+2011,"Prov. Jawa Barat",3212,"Kab. Indramayu","PHE ONWJ","Arjuna",1.180e+10,3.659e+08,7.319e+08,7.319e+08,-6.44806,108.198
+2011,"Prov. Jawa Barat",3212,"Kab. Indramayu","PELANGI HAURGEULIS","Jatibarang",,,,,-6.44806,108.198
+2011,"Prov. Jawa Barat",3212,"Kab. Indramayu","BANGO DUO","Jatibarang",3.356e+10,1.040e+09,2.081e+09,2.081e+09,-6.44806,108.198
+2011,"Prov. Jawa Barat",3212,"Kab. Indramayu","RADIAN R SUKATANI","Jatibarang",,,,,-6.44806,108.198
+2011,"Prov. Jawa Barat",3212,"Kab. Indramayu","PT. PERTAMINA EP.","Jatibarang",1.974e+11,6.121e+09,1.224e+10,1.224e+10,-6.44806,108.198
+2011,"Prov. Jawa Barat",3213,"Kab. Subang","RAINBOW ENERGY","Jatibarang",6.255e+08,19391696,38783392,38783392,-6.4939,107.726
+2011,"Prov. Jawa Barat",3213,"Kab. Subang","PT. PERTAMINA EP.","Jatibarang",2.111e+10,6.543e+08,1.309e+09,1.309e+09,-6.4939,107.726
+2011,"Prov. Jawa Barat",3215,"Kab. Karawang","PHE ONWJ","Arjuna",7.203e+10,2.233e+09,4.466e+09,4.466e+09,-6.28699,107.364
+2011,"Prov. Jawa Barat",3215,"Kab. Karawang","RDL / MB-T2","Arjuna",5.455e+10,1.691e+09,3.382e+09,3.382e+09,-6.28699,107.364
+2011,"Prov. Jawa Barat",3215,"Kab. Karawang","PT. PERTAMINA EP.","Jatibarang",6.662e+10,2.065e+09,4.131e+09,4.131e+09,-6.28699,107.364
+2011,"Prov. Jawa Barat",3216,"Kab. Bekasi","ELLIPSE EN. JATIRARANGON","Jatibarang",3.214e+09,99648736,1.993e+08,1.993e+08,-6.20242,107.135
+2011,"Prov. Jawa Barat",3216,"Kab. Bekasi","PT. PERTAMINA EP.","Jatibarang",5.570e+11,1.727e+10,3.454e+10,3.454e+10,-6.20242,107.135
+2011,"Prov. Jawa Tengah",3315,"Kab. Grobogan","PT. PERTAMINA EP.","Cepu",,,,,-7.10693,110.894
+2011,"Prov. Jawa Tengah",3316,"Kab. Blora","PT. PERTAMINA EP.","Cepu",3.588e+10,1.112e+09,2.224e+09,2.224e+09,-7.11381,111.361
+2011,"Prov. Jawa Timur",3515,"Kab. Sidoarjo","LAPINDO BRANTAS","Tanggulangin",3.897e+08,12080143,24160287,24160287,-7.45533,112.663
+2011,"Prov. Jawa Timur",3515,"Kab. Sidoarjo","PPI","Tanggulangin",,,,,-7.45533,112.663
+2011,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","UNITISASI PETROCHINA","Sukowati",1.904e+12,5.901e+10,1.180e+11,1.180e+11,-7.22605,111.791
+2011,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","JOBP. PETROCHINA  EAST JAVA - PPI","SUKOWATI",3.750e+11,1.162e+10,2.325e+10,2.325e+10,-7.22605,111.791
+2011,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","JOBP. PETROCHINA  EAST JAVA - PETROCHINA INT'L","SUKOWATI",9.516e+11,2.950e+10,5.900e+10,5.900e+10,-7.22605,111.791
+2011,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","PT. PERTAMINA EP.","Cepu",4.560e+10,1.414e+09,2.827e+09,2.827e+09,-7.22605,111.791
+2011,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","JOBP. PETROCHINA  EAST JAVA","SUKOWATI",,,,,-7.22605,111.791
+2011,"Prov. Jawa Timur",3522,"Kab. Bojonegoro","EXXONMOBIL CEPU","Banyu Urip",8.927e+11,2.767e+10,5.535e+10,5.535e+10,-7.22605,111.791
+2011,"Prov. Jawa Timur",3523,"Kab. Tuban","PT. PERTAMINA EP.","Cepu",1.399e+08,4337606.3,8675212.7,8675212.7,-6.95912,111.893
+2011,"Prov. Jawa Timur",3523,"Kab. Tuban","JOBP. PETROCHINA  EAST JAVA - PETROCHINA INT'L","MUDI",1.592e+11,4.934e+09,9.868e+09,9.868e+09,-6.95912,111.893
+2011,"Prov. Jawa Timur",3523,"Kab. Tuban","JOBP. PETROCHINA  EAST JAVA - PPI","MUDI",8.278e+10,2.566e+09,5.132e+09,5.132e+09,-6.95912,111.893
+2011,"Prov. Jawa Timur",3525,"Kab. Gresik","HESS INDONESIA","Pangkah",4.340e+10,1.345e+09,2.691e+09,2.691e+09,-7.12652,112.517
+2011,"Prov. Jawa Timur",3526,"Kab. Bangkalan","PPI","Madura",4.196e+10,1.301e+09,2.602e+09,2.602e+09,-7.04863,112.909
+2011,"Prov. Jawa Timur",3526,"Kab. Bangkalan","JOAP. KODECO ENERGY","Madura",1.036e+11,3.212e+09,6.423e+09,6.423e+09,-7.04863,112.909
+2011,"Prov. Jawa Timur",3529,"Kab. Sumenep","KANGEAN ENERGY IND.","Sepanjang",,,,,-7.00034,113.852
+2011,"Prov. Jawa Timur",3529,"Kab. Sumenep","KANGEAN ENERGY IND.","Pagerungan Cond.",,,,,-7.00034,113.852
+2011,"Prov. Kalimantan Selatan",6309,"Kab. Tabalong","UBEP. TANJUNG","Tanjung",2.532e+11,7.850e+09,1.570e+10,1.570e+10,-1.82989,115.448
+2011,"Prov. Kalimantan Selatan",6311,"Kab. Balangan","UBEP. TANJUNG","Tanjung",1.726e+10,5.350e+08,1.070e+09,1.070e+09,-2.29685,115.567
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","INPEX","Handil Mix",1.947e+12,6.035e+10,1.207e+11,1.207e+11,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","INPEX","Badak",5.959e+10,1.847e+09,3.694e+09,3.694e+09,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","TOTAL INDONESIE","Bekapai",7.169e+09,2.222e+08,4.445e+08,4.445e+08,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","TOTAL INDONESIE","Badak",5.131e+10,1.591e+09,3.181e+09,3.181e+09,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","TOTAL INDONESIE","Senipah Kond",1.693e+12,5.248e+10,1.050e+11,1.050e+11,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","VICO","Badak",2.327e+12,7.215e+10,1.443e+11,1.443e+11,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","TOTAL INDONESIE","BRC",1.112e+12,3.447e+10,6.895e+10,6.895e+10,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","VICO","BRC",6.270e+11,1.944e+10,3.888e+10,3.888e+10,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","CHEVRON IND. CO. - EAST KAL","Senipah Kond",,,,,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","SEMBRANI P.OIL","Sangatta",4.900e+10,1.519e+09,3.038e+09,3.038e+09,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","INPEX","Senipah Kond",1.719e+12,5.328e+10,1.066e+11,1.066e+11,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","UBEP. SANGA-SANGA","Pam.Sng2.Mix",4.000e+11,1.240e+10,2.480e+10,2.480e+10,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","INPEX","BRC",9.387e+11,2.910e+10,5.820e+10,5.820e+10,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","TOTAL INDONESIE","Handil Mix",1.824e+12,5.655e+10,1.131e+11,1.131e+11,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","CHEVRON IND. CO. - EAST KAL","Attaka",,,,,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","INPEX","Bekapai",9.743e+09,3.020e+08,6.040e+08,6.040e+08,.245719,117.041
+2011,"Prov. Kalimantan Timur",6403,"Kab. Kutai Kartanegara","CHEVRON IND. CO. - EAST KAL","Sapi Kond",,,,,.245719,117.041
+2011,"Prov. Kalimantan Timur",6404,"Kab. Kutai Timur","PT. PERTAMINA EP.","Sangatta",1.017e+11,3.153e+09,6.305e+09,6.305e+09,1.02225,117.53
+2011,"Prov. Kalimantan Timur",6407,"Kab. Bulungan","PT. PERTAMINA EP.","Bunyu",2.887e+11,8.949e+09,1.790e+10,1.790e+10,2.92062,117.022
+2011,"Prov. Kalimantan Timur",6408,"Kab. Nunukan","MEDCO SEMBAKUNG","Bunyu",1.363e+11,4.225e+09,8.450e+09,8.450e+09,3.87444,116.679
+2011,"Prov. Kalimantan Timur",6409,"Kab. Penajam Paser Utara","PERUSDA BENUO TAKA","Sepinggan",,,,,-1.21871,116.612
+2011,"Prov. Kalimantan Timur",6409,"Kab. Penajam Paser Utara","CHEVRON IND. CO. - EAST KAL","Sepinggan",6.021e+11,1.866e+10,3.733e+10,3.733e+10,-1.21871,116.612
+2011,"Prov. Kalimantan Timur",6410,"Kab. Tana Tidung","PERTAMINA EP (KSO - PATINA GROUP)","",3.295e+09,1.022e+08,2.043e+08,2.043e+08,3.4432,117.168
+2011,"Prov. Kalimantan Timur",6472,"Kota Samarinda","UBEP. SANGA-SANGA","Pam.Sng2.Mix",4.196e+09,1.301e+08,2.601e+08,2.601e+08,-.430184,117.174
+2011,"Prov. Kalimantan Timur",6472,"Kota Samarinda","SEMBERANI PERSADA OIL","Sangatta",2.187e+09,67791866,1.356e+08,1.356e+08,-.430184,117.174
+2011,"Prov. Kalimantan Timur",6472,"Kota Samarinda","VICO","Badak",7.546e+10,2.339e+09,4.678e+09,4.678e+09,-.430184,117.174
+2011,"Prov. Kalimantan Timur",6472,"Kota Samarinda","VICO","BRC",8.890e+09,2.756e+08,5.512e+08,5.512e+08,-.430184,117.174
+2011,"Prov. Kalimantan Timur",6473,"Kota Tarakan","UBEP. SANGA-SANGA","Pam.Sng2.Mix",3.884e+10,1.204e+09,2.408e+09,2.408e+09,3.33426,117.593
+2011,"Prov. Kalimantan Timur",6473,"Kota Tarakan","MEDCO TARAKAN","Mamburungan",6.262e+11,1.941e+10,3.882e+10,3.882e+10,3.33426,117.593
+2011,"Prov. Kalimantan Timur",6474,"Kota Bontang","CHEVRON IND. CO. - EAST KAL","Attaka",2.914e+11,9.033e+09,1.807e+10,1.807e+10,.209815,117.348
+2011,"Prov. Sulawesi Tengah",7203,"Kab. Morowali","JOBP. MEDCO TOMORI","Tiaka",,,,,-2.27987,121.645
+2011,"Prov. Sulawesi Tengah",7203,"Kab. Morowali","PPI","",4.945e+10,1.533e+09,3.066e+09,3.066e+09,-2.27987,121.645
+2011,"Prov. Maluku",8107,"Kab. Seram Bagian Timur","CITIC SERAM ENERGY","Naphta",,,,,-3.42318,130.347
+2011,"Prov. Maluku",8107,"Kab. Seram Bagian Timur","CITIC SERAM ENERGY","Oseil (HSFO)",1.552e+10,4.812e+08,9.624e+08,9.624e+08,-3.42318,130.347
+2011,"Prov. Maluku",8107,"Kab. Seram Bagian Timur","KALREZ PETROLEUM","Lemun (Bula)",9.233e+09,2.862e+08,5.724e+08,5.724e+08,-3.42318,130.347
+2011,"Prov. Papua Barat",9104,"Kab. Teluk Bintuni","PATRINDO PERSADA MADJU","Walio Mix",5.324e+09,1.597e+08,3.194e+08,3.194e+08,-2.0977,133.322
+2011,"Prov. Papua Barat",9104,"Kab. Teluk Bintuni","BP TANGGUH","Cond.",,,,,-2.0977,133.322
+2011,"Prov. Papua Barat",9107,"Kab. Sorong","INTERMEGA SABAKU","Walio Mix",1.023e+10,3.068e+08,6.136e+08,6.136e+08,-.946039,131.859
+2011,"Prov. Papua Barat",9107,"Kab. Sorong","IBN. HOLDICO","Walio Mix",7.260e+09,2.178e+08,4.356e+08,4.356e+08,-.946039,131.859
+2011,"Prov. Papua Barat",9107,"Kab. Sorong","INTERMEGA SALAWATI","Walio Mix",1.920e+10,5.760e+08,1.152e+09,1.152e+09,-.946039,131.859
+2011,"Prov. Papua Barat",9107,"Kab. Sorong","PETROCHINA INT'L","Walio Mix",7.262e+11,2.179e+10,4.357e+10,4.357e+10,-.946039,131.859
+2011,"Prov. Papua Barat",9107,"Kab. Sorong","JOBP. PETROCHINA SALAWATI - PETROCHINA INT'L","WALIO MIX",1.582e+10,4.747e+08,9.494e+08,9.494e+08,-.946039,131.859
+2011,"Prov. Papua Barat",9107,"Kab. Sorong","PT. PERTAMINA EP.","Walio Mix",8.576e+08,25729218,51458435,51458435,-.946039,131.859
+2011,"Prov. Papua Barat",9107,"Kab. Sorong","PETROCHINA INT'L","Wakamuk",5.921e+10,1.776e+09,3.553e+09,3.553e+09,-.946039,131.859
+2011,"Prov. Papua Barat",9107,"Kab. Sorong","PT. PERTAMINA EP.","Klamono",2.773e+10,8.318e+08,1.664e+09,1.664e+09,-.946039,131.859
+2011,"Prov. Papua Barat",9107,"Kab. Sorong","JOBP. PETROCHINA SALAWATI - PPI","WALIO MIX",4.646e+10,1.394e+09,2.788e+09,2.788e+09,-.946039,131.859
+2011,"Prov. Papua Barat",9108,"Kab. Raja Ampat","PPI","",,,,,-.229671,131.037
+2011,"Prov. Papua Barat",9108,"Kab. Raja Ampat","JOBP. PETROCHINA SALAWATI","Meslu",,,,,-.229671,131.037
