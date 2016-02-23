@@ -21,3 +21,7 @@ Seluruh kumpulan data yang ada di dalam [data.go.id](http://www.data.go.id) dika
 Platform analisis yang digunakan adalah [R](http://www.r-project.org) diatas sistem operasi [Linux](http://www.kernel.org) 64bit. Namun tidak menutup kemungkinan bisa dijalankan di platform lain.
 
 Proyek ini merupakan visualisasi dari hasil eksplorasi yang sebelumnya telah dilakukan di [Data.ID-Analytics](http://github.com/b2b-web-id/data.id-analytics).
+
+-----------------
+
+Visualisasi dapat dilihat di [data-id.b2b.web.id](http://data-id.b2b.web.id).
