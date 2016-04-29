@@ -7,8 +7,7 @@ shinyUI(dashboardPage(
 
   dashboardHeader(title = "DBH Minyak Bumi"),
   dashboardSidebar(
-    uiOutput("tahun"),
-    div("home","<a href='http://data-id.b2b.web.id'>Beranda</a>")
+    uiOutput("tahun")
   ),
   dashboardBody(
     leafletOutput("mymap"),
