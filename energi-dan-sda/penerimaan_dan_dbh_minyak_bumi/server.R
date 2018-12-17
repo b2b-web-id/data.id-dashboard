@@ -21,14 +21,19 @@ data$popup <- paste0(
                                       scientific=FALSE, format="d", big.mark=".", decimal.mark=","),
   "<br>DBH Pemerataan : ", format(data$dbh_pemerataan,
                                        scientific=FALSE, format="d", big.mark=".", decimal.mark=","))
+tahun <- c("Semua Tahun",as.character(unique(data$tahun)))
 
 shinyServer(function(input, output, session) {
 
+  output$tahun <- renderUI({
+    selectInput("tahun", "Tahun", tahun)
+  })
+  
   output$mymap <- renderLeaflet({
-    if(input$tahun == 2010) {
-      data <- subset(data, tahun == 2010)
-    } else if(input$tahun == 2011) {
-      data <- subset(data, tahun == 2011)
+    if(input$tahun == "Semua Tahun") {
+      data <- subset(data, tahun == max(data$tahun))
+    } else {
+      data <- subset(data, tahun == input$tahun)
     }
     leaflet(data = data) %>%
       addTiles() %>%
