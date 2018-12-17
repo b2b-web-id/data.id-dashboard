@@ -16,7 +16,7 @@ shinyServer(function(input, output, session) {
 
   output$mymap <- renderLeaflet({
     if(input$tahun == "Semua Tahun") {
-      data <- data
+      data <- subset(data, tahun == max(data$tahun))
     } else {
       data <- subset(data, tahun == input$tahun)
     }
